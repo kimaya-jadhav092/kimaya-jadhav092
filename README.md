@@ -42,7 +42,7 @@ Explored key factors influencing happiness scores across nations using regressio
 ## 📫 Let’s Connect  
 📧 [kimaya092@.gmail.com](mailto:kimaya092@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/kimayajadhav)  
-🗂️ [AI/ML Foundations Portfolio (private)](https://github.com/kimaya-jadhav092/MIT-AI-ML-Portfolio/blob/main/README.md) — Reach out for access
+🗂️ [AI/ML Foundations Portfolio](https://github.com/kimaya-jadhav092/MIT_AI_ML_portfolio/blob/main/README.md) 
 
 ---
 
